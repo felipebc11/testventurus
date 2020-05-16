@@ -10,8 +10,6 @@ Para começar, execute o comando abaixo, assim instalando as depedências necess
 $ npm install
 ```
 
-```
-
 ## Principais comandos
 
 ```sh
